@@ -1,0 +1,19 @@
+{
+  "name": "random-str-msg-rx",
+  "version": "1.0.0",
+  "description": "random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Raul Madero <r.madero.ramirez@gmail.com",
+  "license": "MIT",
+  "keywords": [],
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "user": "^0.0.0"
+  }
+}
